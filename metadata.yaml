@@ -1,0 +1,45 @@
+_repo: A-Lost-Hero_28059
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, Frank Thayer
+    - Merrill, F. T.
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 28059-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Phelps, Elizabeth Stuart
+    aliases:
+    - Phelps, E. Stuart (Elizabeth Stuart)
+    - Ward, Elizabeth Stuart Phelps
+    birthdate: 1844
+    deathdate: 1911
+    gutenberg_agent_id: '1685'
+    url: http://www.gutenberg.org/2009/agents/1685
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Stuart_Phelps_Ward
+  - agent_name: Ward, Herbert D. (Herbert Dickinson)
+    birthdate: 1861
+    deathdate: 1932
+    gutenberg_agent_id: '33112'
+    url: http://www.gutenberg.org/2009/agents/33112
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Dickinson_Ward
+description: ''
+gutenberg_issued: '2009-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'African Americans -- Fiction'
+- !lcc 'PS'
+title: A Lost Hero
+url: http://www.gutenberg.org/ebooks/28059
